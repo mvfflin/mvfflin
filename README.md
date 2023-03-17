@@ -1,5 +1,5 @@
 ### mvffin's github
-hi! im mvfflin, a student and a beginner programmer from indonesia.
+hi! im mvfflin, a student
 <br>
 im still 14 y.o but i love learning things.
 <br>
