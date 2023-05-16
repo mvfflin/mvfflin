@@ -1,4 +1,4 @@
-### Mvffin's github
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=350&size=30&duration=3000&pause=1000&center=true&width=435&lines=Mvfflin's+github" alt="Typing GIF"></h2>
 hi! im mvfflin, a student
 <br>
 im still 14 y.o but i love learning things.
