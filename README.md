@@ -1,15 +1,12 @@
-### mvffin's github
+### Mvffin's github
 hi! im mvfflin, a student
 <br>
 im still 14 y.o but i love learning things.
-<br>
-i want to be a full stack developer, but for now im still learning things.
+beginner at coding
 
-## me right now
-currently tryin typescript & reactjs which is so fun
+## Github statistics
+![](https://raw.githubusercontent.com/mvfflin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mvfflin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-## contact me
-***Discord*** - mvfflin#9046 - [Discord Server](https://discord.mvlin.xyz)
-
-## about me
-you can check my about me [here](https://justme.mvlin.xyz)
+## Contact me
+***Discord*** - mvfflin#9046 - [muffin co.]([https://discord.mvlin.xyz](https://discord.gg/7uYHY7frbR))
