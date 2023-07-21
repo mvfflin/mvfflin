@@ -14,4 +14,4 @@ beginner at coding
 ***Discord*** - mvfflin#9046 - [muffin co.]([https://discord.mvlin.xyz](https://discord.gg/7uYHY7frbR))
 
 ## About me
-still working on this...
+[my page](https://mvfflin.github.io/)
