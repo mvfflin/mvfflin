@@ -3,8 +3,8 @@ hi! im mvfflin, a student
 <br>
 my real name is fatih, and i like muffins
 <br>
-im still 14 y.o but i love learning things.
-beginner at coding
+im 15 y.o and i love learning things.
+also i like to create random things when programming.
 
 ## Github statistics
 <p align="center">
@@ -13,7 +13,7 @@ beginner at coding
 </p>
 
 ## Contact me
-***Discord*** - mvfflin#9046 - [muffin co.]([https://discord.mvlin.xyz](https://discord.gg/7uYHY7frbR))
+***Discord*** - mvfflin - [muffin co.](https://discord.gg/7uYHY7frbR)
 
 ## About me
-[My Website Portfolio](https://mvfflin-profile.vercel.app/)
+[My Website Portfolio](https://profile.mvffin.my.id/)
