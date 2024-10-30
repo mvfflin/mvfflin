@@ -3,7 +3,7 @@ hi! im mvfflin, a student
 <br>
 my real name is fatih, and i like muffins
 <br>
-im 15 y.o and i love learning things.
+im 16 y.o and i love learning things.
 also i like to create random things when programming.
 
 ## Github statistics
